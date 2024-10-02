@@ -11,7 +11,7 @@ Untuk menjalankan aplikasi ini, Anda perlu:
 
 Clone repositori ini:
 bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/Kalkulator-kotlin.git
+git clone https://github.com/BudiDarma07/Kalkulator-Kotlin.git
 Masuk ke direktori proyek:
 
 bash
